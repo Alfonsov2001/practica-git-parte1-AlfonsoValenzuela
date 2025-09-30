@@ -1,2 +1,3 @@
-# practica-git-parte1-AlfonsoValenzuela
-Primera parte de la práctica de git
+Alfonso Valenzuela Rivero
+
+Buenas, soy un estudiante en 2º curso de desarrollo de aplicaciones multiplataforma.
