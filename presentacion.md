@@ -6,6 +6,6 @@ Buenas, soy un estudiante en 2º curso de desarrollo de aplicaciones multiplataf
 Hobbies: Me gusta el padel y la fotografía.
 
 Mi pelicula favorita es Cadena Perpetua
+<<<<<<< HEAD
 
 Esto es una prueba
-
